@@ -1,0 +1,8 @@
+1. Maak een key aan in PuttyGen.
+2. Sla de key veilig op. 
+3. Open de private key in PuttyGen en copieër de OpenSSH key.
+4. Importeer de key in als key pair in Openstack.
+5. Maak de instance aan.
+6. Koppel de instance aan de key pair tijdens het aanmaken.
+7. Voeg remote access toe als security group.
+7. Verbind met de instance.

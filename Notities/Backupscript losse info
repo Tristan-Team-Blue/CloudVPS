@@ -1,0 +1,14 @@
+Waar het op lijkt is dat uw backupscript nog gebruik maakt van de oude home folder binnen het backupaccount.
+Binnen het backupscript dient u het onderstaande te veranderen.
+/home/vps64693/ moet u vervangen voor /home/vps64693_new/ .
+Om de configuratie van uw backupscript te veranderen kunt u het onderstaande commando gebruiken:
+/root/cloudvps-backupscript-install.sh --edit-config
+Van <https://cerberus.office.xl-is.net/index.php/profiles/ticket/TVR-45286-976/conversation> 
+
+
+Logs inzien van een backupserver is op
+/var/log/backups/rsync/
+
+Van <https://app.slack.com/client/TQEG5EU7K/D01M7DXLEDP> 
+
+

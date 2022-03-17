@@ -1,0 +1,61 @@
+Open Twitmail: TwitMail Reborn (cloudvps.com)
+Resource input type: CloudVPS handles.
+
+Copieer alle handles voor de migratie.
+Klik op "Create session"
+
+Gebruik het onderstaande template en VERANDER DE DATUM NAAR DE JUISTE DATUM:
+Subject: Backup Migration [vpsnummer]
+Klik hierna op "save global template"
+
+Zet per user het VPS nummer erbij door op "edit template" te klikken. Saven kan door op "save custom template" te klikken.
+
+{% set date = "11-02-2021" %}
+{% if owner.get('language', 'en') | lower != "nl" %}
+Dear {{owner.name}},
+In order to continue improving our services regarding the backup accounts, we will soon migrate your backup account to another server. We plan to do this on {{ date }}, after which you will receive a message from us.
+The VPS(s) you purchase from us will not be affected by this migration, it will take place outside of the VPSes.
+This provides the following benefits for you:
+- Faster and newer hardware, so that backups can be made and received faster.
+- Upgrades for the backup account remain guaranteed, because of the many extra spaces that are now available.
+Due to this migration, you will receive different login details from us. Please keep these in a safe place in case you need to make changes or restore your data yourself.
+Herewith you will find the instructions for converting the data. We will send them again after the migration.
+Controlpanel Backups]
+If you make backups using DirectAdmin, Plesk, Cpanel/WHM or another controlpanel, you will have to change the settings of the backups yourself to the previously mentioned login details. Please note that as long as you do not change this, no more backups can be made.
+CloudVPS Backupscript]
+If you are using the CloudVPS Backupscript and we have access to your VPS, we have already converted the backup configuration to the new location, so that the backups continue to run silently. If you have a backup account with the same name as your VPS number, only the backup has been converted for that VPS; if you include more than 1 VPS in this account, you must adjust the backup configuration on the other servers yourself.
+Own backup solution]
+If you are using your own backup solution, you must change the settings of the set backups yourself to the login details mentioned earlier. Please note that as long as you do not change this, no more backups can be made.
+Windows]
+If you are using Windows then you must adjust the settings of the
+Windows] If you use Windows then you have to change the settings of the set backups yourself to the previously mentioned login details. Please note that as long as you do not change this, no more backups can be made.
+Please note that the old account will no longer be accessible after the above date, it will be kept for one month (from the day of migration) and then permanently deleted.
+If you have any questions regarding this migration, please let us know. 
+Kind regards,
+CloudVPS Support
+{% else %}
+Beste {{owner.name}},
+Om onze dienstverlening omtrent de backupaccounts te blijven verbeteren gaan wij binnenkort uw backupaccount migreren naar een andere server. De planning is om dit op {{ date }} uit te voeren, na afloop ontvangt u van ons bericht.
+De VPS(en) die u bij ons afneemt hebben geen last van deze migratie, dit gaat buiten de VPSen om.
+Dit levert voor u de volgende voordelen op:
+- Snellere en nieuwe hardware, waardoor de backups sneller gemaakt en ontvangen kunnen worden.
+- Upgrades voor het backupaccount blijven hierdoor gewaarborgd, dit vanwege de vele extra ruimte die nu beschikbaar is.
+Door deze migratie krijgt u van ons andere inloggegevens, bewaar deze goed voor als u zelf wijzigingen dient aan te brengen of uw data dient te herstellen.
+Hierbij alvast de instructies voor het omzetten van de gegevens. Deze sturen we nogmaals na de migratie.
+[Controlpanel Backups]
+Indien u backups maakt via DirectAdmin, Plesk, Cpanel/WHM of een ander controlpanel dan dient u zelf de instellingen van de ingestelde backups aan te passen naar de eerder genoemde inloggegevens. Houd er rekening mee dat zolang u dit niet aanpast er geen backups meer gemaakt kunnen worden.
+[CloudVPS Backupscript]
+Indien u gebruik maakt van het backupscript van CloudVPS en wij toegang hebben tot uw VPS dan hebben wij reeds de backup configuratie omgezet naar de nieuwe locatie, zodat de backups geruisloos door lopen. Indien u een backupaccount heeft gelijk aan de naam van uw VPS nummer dan is alleen de backup omgezet voor die betreffende VPS, als u meer dan 1 VPS in dit account meeneemt zult u zelf de backup configuratie moeten aanpassen op de andere servers.
+[Eigen backupoplossing]
+Indien u gebruik maakt van een eigen backupoplossing dan dient u zelf de instellingen van de ingestelde backups aan te passen naar de eerder genoemde inloggegevens. Houd er rekening mee dat zolang u dit niet aanpast er geen backups meer gemaakt kunnen worden.
+[Windows]
+Indien u gebruik maakt van Windows dan dient u zelf de
+instellingen van de ingestelde backups aan te passen naar de eerder genoemde inloggegevens. Houd er rekening mee dat zolang u dit niet aanpast er geen backups meer gemaakt kunnen worden.
+Houd er rekening mee dat het oude account niet meer toegankelijk wordt na de bovengenoemde datum, het zal voor 1 maand bewaard worden (vanaf de dag van migratie) en dan definitief verwijderd worden.
+Mocht u nog vragen hebben naar aanleiding van deze migratie dan horen we dat graag. 
+Vriendelijke groet,
+CloudVPS Support
+{% endif %}
+
+Vul deze in onder "global 
+
