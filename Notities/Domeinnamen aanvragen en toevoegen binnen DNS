@@ -1,4 +1,4 @@
 Op Transip.nl kan een domeinnaam gekocht worden.
-Hierna kan op [Registry | Nameserver (xl-is.net)](https://registry.office.xl-is.net/reg_ns01.html#/domains/create) de DNS zone aangemaakt worden.
+Hierna kan op Registry | Nameserver (https://registry.office.xl-is.net/reg_ns01.html#/domains/create) de DNS zone aangemaakt worden.
 Hierna kan op Poweradmin (cloudvps.com) de username bij het account gezocht worden.
 Zodra deze gevonden is, kan het account gelinkt worden aan het domein op Registry | Nameserver (xl-is.net) toegevoegd worden.
