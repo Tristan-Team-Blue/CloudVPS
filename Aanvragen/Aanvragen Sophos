@@ -1,0 +1,24 @@
+SOPHOS LICENTIE CHECK
+--------------------------------------------------------------------------------------------------
+Check de licenties in het ticket [#RIS-87465-862] Sophos licentie check - CloudVPS Servicedesk (xl-is.net)
+VOOR JE IETS DOET, check het VPS nummer of het opgezecht is in de Backoffice. (opgezegd = naam wijzigen met er achter CANCELLED
+Ga naar Sophos MyUTM Licensing Portal en voer het VPS nummer bij de zoekbalk in
+Klik op de license
+Ga naar https://powercenter.office.xl-is.net/utm.php en vul de Company details in.
+Typ = Renew existing license
+Features = kijken in MyUTM onder de juiste license
+Protected IP = nakijken in MyUTM
+Period = 1 year
+License ID = kijken bij MyUTM
+Name = VPSnummer - companyname
+License type = Software appliance
+Nu heb je het ticket juist aangevraagd.
+
+Maak in het ticket een comment aan met de licentie namen die verlengd zijn.
+Post het "verhaal" nogmaals.
+--------------------------------------------------------------------------------------------------
+SOPHOS LICENTIE VERLENGEN
+--------------------------------------------------------------------------------------------------
+Log in op MyUTM.
+MOET NOG AANGEVULD WORDEN
+
