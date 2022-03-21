@@ -24,7 +24,10 @@ Inhoud van comment: "<ticketnummer/cerberus linkje>"
 Mocht je meer informatie nodig hebben over een bepaalde klant kan je contact opnemen met Jacqueline van der Sluis via de email of Slack.
 ```
 
-<h1> Hoe verstuur je de _Account Termination_ mail? </h1>
+<h1> Hoe verstuur je de "Account Termination" mail? </h1>
+
+1. Log in op [Cerberus](https://cerberus.office.xl-is.net).
+2. Klik op het plusje.
 
 <h1> Wat als de klant gewoon betaald? </h1>
 
