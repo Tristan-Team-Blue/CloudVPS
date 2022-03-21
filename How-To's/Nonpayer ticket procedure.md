@@ -37,6 +37,8 @@ Mocht je meer informatie nodig hebben over een bepaalde klant kan je contact opn
 Account Termination
 ```
 
+**Let op! Het ticket hoeft _NIET_ op heropen te staan.**
+
 
  
 
