@@ -24,6 +24,8 @@ Inhoud van comment: "<ticketnummer/cerberus linkje>"
 Mocht je meer informatie nodig hebben over een bepaalde klant kan je contact opnemen met Jacqueline van der Sluis via de email of Slack.
 ```
 
+<h1> Wat als de klant gewoon betaald? </h1>
+
 **Als de klant betaald zet je de services van de klant weer aan welke je in stap 3 hebt uitgezet.
 Hiernaast haal de de non-payer status weg van het account van de klant, dit voorkomt dat je de volgende week weer de klant tegenkomt.
 Voorbeeld:**
