@@ -4,6 +4,8 @@
 Controleer of er een comment in het backoffice account staat, als dit zo is dan is deze klant al in behandeling:
 
 
+![proxyImage (1)](https://user-images.githubusercontent.com/101794760/159261592-b3efab49-d4d2-4591-b242-2cd8f3739eee.png)
+
 
 
 <h2> Stap 2 </h2>
@@ -22,6 +24,8 @@ Inhoud van comment: "<ticketnummer/cerberus linkje>"
 Mocht je meer informatie nodig hebben over een bepaalde klant kan je contact opnemen met Jacqueline van der Sluis via de email of Slack.
 ```
 
-Als de klant betaald zet je de services van de klant weer aan welke je in stap 3 hebt uitgezet.
+**Als de klant betaald zet je de services van de klant weer aan welke je in stap 3 hebt uitgezet.
 Hiernaast haal de de non-payer status weg van het account van de klant, dit voorkomt dat je de volgende week weer de klant tegenkomt.
-Voorbeeld: https://jhcsmedia.com/?f=2022-02-28-KzFshZtFGfCDb2yL.gif
+Voorbeeld:**
+
+![2022-02-28-KzFshZtFGfCDb2yL](https://user-images.githubusercontent.com/101794760/159261675-dac8d353-f17e-4432-9b2a-0d1f095763a1.gif)
