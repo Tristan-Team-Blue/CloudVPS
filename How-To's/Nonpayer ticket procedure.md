@@ -27,7 +27,19 @@ Mocht je meer informatie nodig hebben over een bepaalde klant kan je contact opn
 <h1> Hoe verstuur je de "Account Termination" mail? </h1>
 
 1. Log in op [Cerberus](https://cerberus.office.xl-is.net).
-2. Klik op het plusje.
+2. Klik op het ![msedge_qFfAk5rYMR](https://user-images.githubusercontent.com/101794760/159262504-9fb906bb-4eb6-4c6f-b348-ac010daf65ea.jpg) aan de rechterkant van de pagina.
+3. Verstuur het ticket eerst naar "support@cloudvps.com". Anders is het niet mogelijk om een Snippit in te geven. **Vergeet het ticket niet op je naam te zetten**
+4. Open het ticket dat net verstuurd is.
+5. **Onderwerp van de mail:** Account Termination
+6. Klik op het   ![msedge_QXnAXpUSNF](https://user-images.githubusercontent.com/101794760/159262996-59cc41bd-b020-4620-abe5-112a4d43ee14.jpg) symbool om een snippit in te voeren.
+7. Hier zoek je naar  
+```
+Account Termination
+```
+
+
+ 
+
 
 <h1> Wat als de klant gewoon betaald? </h1>
 
