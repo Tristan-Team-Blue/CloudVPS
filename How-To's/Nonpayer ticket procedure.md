@@ -10,7 +10,11 @@ Controleer of er een comment in het backoffice account staat, als dit zo is dan 
 
 <h2> Stap 2 </h2>
 Als er geen comment staat en de invoices daadwerkelijk op niet betaald staan mail de klant met het snipper "Account termination".
-Gebruik als titel van het ticket "Account Termination".
+Gebruik als titel van het ticket:
+
+```
+Account Termination
+```
 
 <h2> Stap 3 </h2>
 Suspended de services van de klant en zeg de orders op met de opzegreden: "Client defaults on payment" ik kies persoonlijk altijd om een cancelation date 28 dagen later om de klant de ruimte te geven toch te betalen.
