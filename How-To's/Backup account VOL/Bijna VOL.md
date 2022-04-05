@@ -1,8 +1,6 @@
 <h1> Backup account is FULL melding </h1>
 
-Voorbeeld: <a href="https://cerberus.office.xl-is.net/index.php/profiles/ticket/YHS-46535-822/conversation" target="_blank">BACKUP Backupaccount vps49195 is full!</a>
-
-[BACKUP Backupaccount vps49195 is full!](https://cerberus.office.xl-is.net/index.php/profiles/ticket/YHS-46535-822/conversation)
+Voorbeeld: [BACKUP Backupaccount vps49195 is full!](https://cerberus.office.xl-is.net/index.php/profiles/ticket/YHS-46535-822/conversation)
 
 In het ticket, zul je een vpsnummer tegenkomen. Hiermee kan je het account opzoeken.
 
