@@ -31,6 +31,7 @@ Date            Account                   Quota      Used       Free       %
 Dan kijken we in dit geval naar het stukje 
 
 > Quota used....: 186GB (100%)
+
 Dit quota percentage tellen we op bij
 
 > Inodes used...: 761692 (2%)
