@@ -30,5 +30,5 @@ Date            Account                   Quota      Used       Free       %
 
 Dan kijken we in dit geval naar het stukje 
 
->== Quota used....: 186GB (100%) ==
+> Quota used....: 186GB (100%)
 
