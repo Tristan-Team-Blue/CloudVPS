@@ -28,3 +28,4 @@ Date            Account                   Quota      Used       Free       %
 2022-04-05      vps49195                  200GB      186GB      1.4GB      100% 
 ~~~
 
+Dan kijken we in dit geval naar het stukje ==Quota used....: 186GB (100%)==
