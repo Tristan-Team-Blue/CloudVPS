@@ -29,3 +29,5 @@ Date            Account                   Quota      Used       Free       %
 ~~~
 
 Dan kijken we in dit geval naar het stukje == Quota used....: 186GB (100%) ==
+
+<span style="color:blue">some *blue* text</span>.
