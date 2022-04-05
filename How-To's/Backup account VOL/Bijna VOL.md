@@ -12,17 +12,18 @@ backuptool stats vpsNUMMER
 
 Hiermee zul je de volgende gegevens tegenkomen:
 
+~~~
+Backupserver..: backup-044.cloudvps.com
+Username......: vps49195
+Handle........: BGE00071
+Quota.........: 200GB
+Quota used....: 186GB (100%)
+Quota avail...: 1.4GB
+Inodes........: 52428800
+Inodes used...: 761692 (2%)
+Inodes free...: 51667108
 
-> Backupserver..: backup-044.cloudvps.com
-> Username......: vps49195
-> Handle........: BGE00071
-> Quota.........: 200GB
-> Quota used....: 186GB (100%)
-> Quota avail...: 1.4GB
-> Inodes........: 52428800
-> Inodes used...: 761692 (2%)
-> Inodes free...: 51667108
-> 
-> Quota report for the last 7 days:
-> Date            Account                   Quota      Used       Free       %    
-> 2022-04-05      vps49195                  200GB      186GB      1.4GB      100% 
+Quota report for the last 7 days:
+Date            Account                   Quota      Used       Free       %    
+2022-04-05      vps49195                  200GB      186GB      1.4GB      100% 
+~~~
