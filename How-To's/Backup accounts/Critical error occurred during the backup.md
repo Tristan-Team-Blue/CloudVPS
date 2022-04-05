@@ -34,6 +34,10 @@ Kijk of de backupserver aangepast is:
 
 > Backupserver..: backup-044.cloudvps.com
 
+Ten opzichte van de melding:
+
+> Backupserver...: backup-028.cloudvps.com
+
 <h2> Vergeet niet het snippit aan te passen! </h2>
 
 Hierna kunnen we de klant gaan mailen. Hiervoor gebruik je het volgende Snippit:
