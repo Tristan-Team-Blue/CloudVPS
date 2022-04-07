@@ -26,6 +26,4 @@ Je kunt je account activeren op https://www.transip.nl/migratie/classic-vps/vali
 Zou je hier kunnen proberen in te loggen, zodat je account geactiveerd is?
 
 Als je nog vragen hebt, aarzel dan niet om ze te stellen.
-
-
 ```
