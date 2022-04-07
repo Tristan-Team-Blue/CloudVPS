@@ -11,3 +11,21 @@
     - Is het mailadres van de klant bekend?
     - Zijn server daadwerkelijk gemigreerd? `migrated2bladevps.vps66840.public.cloudvps.com`
     - 
+
+
+
+<h2> Snippit </h2>
+
+```
+Beste klant,
+
+Bedankt voor uw bericht.
+
+Je kunt je account activeren op https://www.transip.nl/migratie/classic-vps/validatie/.
+
+Zou je hier kunnen proberen in te loggen, zodat je account geactiveerd is?
+
+Als je nog vragen hebt, aarzel dan niet om ze te stellen.
+
+
+```
