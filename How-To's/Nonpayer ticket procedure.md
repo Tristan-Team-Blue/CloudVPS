@@ -9,7 +9,7 @@ Controleer of er een comment in het backoffice account staat, als dit zo is dan 
 
 
 <h2> Stap 2 </h2>
-Als er geen comment staat en de invoices daadwerkelijk op niet betaald staan mail de klant met het snipper "Account termination".
+Als er geen comment staat en de invoices daadwerkelijk op niet betaald staan mail de klant met het snippet "Account termination".
 Gebruik als titel van het ticket:
 
 ```
